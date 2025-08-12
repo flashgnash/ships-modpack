@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "c29d48f6fa0819afbe289991778ac5a8be0c28061f1edd539748ecf6d4d60eaa"
+
+[[files]]
+file = "config/aoa3/client_config.toml"
+hash = "91c7b4abc3eb1a391f50490786a19f6c5c3f95006385b676bcd67f9f4bf84aec"
+
+[[files]]
 file = "mods/adaptive-difficulty.pw.toml"
 hash = "b228ea826c965d677769127e9360d4ba1ad6c3bce7ec96d09403c7692ecc43cc"
 metafile = true
@@ -142,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-weaponery.pw.toml"
-hash = "b340dbf2137648f949483e12b5369615beeaba30618e2d94e175170acd7c60c0"
+hash = "2fe18094fb55090965fdc5e40488887be8372052d3696f18737f764326d48f25"
 metafile = true
 
 [[files]]
@@ -287,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+hash = "7e760286c1ef73a5fe82e2ca8b542672eb34b86a36cf44eb8b3e48ac94c40d0e"
 metafile = true
 
 [[files]]
@@ -297,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ba33e2257a6e3e4ae195919d16fdb142c326261bd0ea57560820f8d9fd9e324e"
+hash = "661a3c7d7e2650d795d55657077f007642f27c764df1e87b8e534874a698e38d"
 metafile = true
 
 [[files]]
@@ -372,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "9091cd2ee859de39c863e5e54c4b999b4bd01b7ba6f21c78fbc23a3a3f520bd1"
+hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
 metafile = true
 
 [[files]]
@@ -552,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "b9ec4ecd23b415b2ec3b4dca7b5efbe3b7918944e890362eecf6c90270399d30"
+hash = "f9ba9a5f45d76d88be08c86a577eb4e1b559d23ac9525ef7fdd4b1bfc8bb9a17"
 metafile = true
 
 [[files]]
@@ -607,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+hash = "8a72c34f31d93ad7b952a2bcc3f3714c29ddf4d8b34b484135cddd66fdb83f3f"
 metafile = true
 
 [[files]]
@@ -822,5 +830,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/meme-sans-flesh-blob.pw.toml"
-hash = "9cf3dd80d615be6a1b93aefb9932d9df5be78986c20f0eca74caabda2489c4bd"
+hash = "fcc3225f8ddc0183c892513f3a83901eb91097a1e0a27c0501361d28333f70f9"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "6bed6faabe0a27e10dec4d6e4c8981fc5d376be596c6c5738ab5a8b7e69d125e"
