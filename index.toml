@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "addmods.sh"
-hash = "091717136fd02096f66942b525a48e1f195627ffaa13a119824a759789eeefd1"
-
-[[files]]
 file = "mods/adaptive-difficulty.pw.toml"
 hash = "b228ea826c965d677769127e9360d4ba1ad6c3bce7ec96d09403c7692ecc43cc"
 metafile = true
