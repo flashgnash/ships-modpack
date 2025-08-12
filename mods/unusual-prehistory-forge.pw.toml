@@ -1,0 +1,13 @@
+name = "Unusual Prehistory"
+filename = "unusualprehistory-1.5.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tHu3oHNo/versions/RFAznUVo/unusualprehistory-1.5.0.3.jar"
+hash-format = "sha512"
+hash = "201b7fa34d0cea98a5fadd1fc0d143e5003385371a25399b5f0e9d962285e2e8b8b2dca7d386b3c47038b15d3cfc39018ce7f5feec3a5a30b73c1efe6d26d6cb"
+
+[update]
+[update.modrinth]
+mod-id = "tHu3oHNo"
+version = "RFAznUVo"

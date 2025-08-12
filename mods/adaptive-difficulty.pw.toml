@@ -1,0 +1,13 @@
+name = "Adaptive Difficulty"
+filename = "adaptive_difficulty-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6cU1J0ZI/versions/uoIcbpqu/adaptive_difficulty-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "4bc6f4e9ae667fa479b02069b985f71fb56589927575ac719f9617106fa80bb3316414efdd6acacc8c234eb5b979e242673d7d3604482d750b80f1c9b8d563b7"
+
+[update]
+[update.modrinth]
+mod-id = "6cU1J0ZI"
+version = "uoIcbpqu"

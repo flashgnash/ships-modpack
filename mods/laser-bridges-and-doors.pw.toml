@@ -1,0 +1,13 @@
+name = "Laser Bridges & Doors"
+filename = "laserbridges-1.20.1-forge-5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wz31BboV/versions/8yhDD0bY/laserbridges-1.20.1-forge-5.jar"
+hash-format = "sha512"
+hash = "80d8290bd9bff24d8ae2888bf4c731139f96a54af03dc76a957dd9be21acd7449958f2e304d01ac9ff855326620d331d87fe6c92878ce278052efb6c2b7903af"
+
+[update]
+[update.modrinth]
+mod-id = "wz31BboV"
+version = "8yhDD0bY"

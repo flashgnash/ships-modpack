@@ -1,0 +1,13 @@
+name = "Biomancy 2: Pacifist Rememberance Sans Flesh Blob"
+filename = "pacifists.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wLW8Zccv/versions/jzZag4Y5/pacifists.zip"
+hash-format = "sha512"
+hash = "f2a86737a9d39b4e925223288abd46961c50271eeca7718e5f4c8ab403ad57b059aa4ecc2353b8097cdb328c03690cde4701166960a73b5f27be5c34f9c76ad4"
+
+[update]
+[update.modrinth]
+mod-id = "wLW8Zccv"
+version = "jzZag4Y5"

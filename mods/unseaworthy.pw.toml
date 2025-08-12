@@ -1,0 +1,13 @@
+name = "Unseaworthy"
+filename = "unseaworthy-forge-1.20.1-1.4.0-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9OuwP2Qv/versions/yXh2Wc2s/unseaworthy-forge-1.20.1-1.4.0-1.jar"
+hash-format = "sha512"
+hash = "e2aa3e1ea28a758f2a4584804f413d4a9456f226b3d28e960d8ce33cb340a575a4ff2ded60e47557a8844fcdba626b0e066572477fc6441b76dc2c3e55cf7eec"
+
+[update]
+[update.modrinth]
+mod-id = "9OuwP2Qv"
+version = "yXh2Wc2s"

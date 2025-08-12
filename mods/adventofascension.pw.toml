@@ -1,0 +1,13 @@
+name = "Advent Of Ascension"
+filename = "AoA3-1.20.1-3.7.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qn2AQBc/versions/ADsBtG85/AoA3-1.20.1-3.7.1-all.jar"
+hash-format = "sha512"
+hash = "bdee7d12aab1903e1e74f377d4f0ae7ac948d791f46ec0368d191d86a3d5a03cfbd2e6d1295f1fe690f303b1fa709da89db980543e4d450fc0fdbbf6d9e694e6"
+
+[update]
+[update.modrinth]
+mod-id = "9qn2AQBc"
+version = "ADsBtG85"

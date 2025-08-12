@@ -1,0 +1,13 @@
+name = "Cataclysm Weaponery"
+filename = "CataclysmWeaponery2.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S5OkaSK0/versions/wQGRipgG/CataclysmWeaponery2.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "5beeefb11895f7f5eee8141e2fc71038868ceff27370af430a1a1fee6cbf134ea78ac2bd401175e85a9c703d2535fcb56a1a0af72cf480770c45faadef2d3aa7"
+
+[update]
+[update.modrinth]
+mod-id = "S5OkaSK0"
+version = "wQGRipgG"

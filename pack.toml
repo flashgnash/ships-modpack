@@ -1,0 +1,13 @@
+name = "Ships Modpack"
+author = "flashgnash"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "90fe525311c1150680d8056422dd18d643e4fa5080138f948afc3491f836d5fa"
+
+[versions]
+forge = "47.4.6"
+minecraft = "1.20.1"

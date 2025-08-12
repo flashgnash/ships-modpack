@@ -1,0 +1,13 @@
+name = "Flight Conduit"
+filename = "flightconduit-1.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mUoPUDi9/versions/8siBaXkG/flightconduit-1.1.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "aa90c295d01936e4b643e2733edb2a19f4c18f4a19b24fb3139e2638eaa78773ca4de4d9931d5c7bd4b12252da8d61acf10a640f80155d510970c128effe7035"
+
+[update]
+[update.modrinth]
+mod-id = "mUoPUDi9"
+version = "8siBaXkG"

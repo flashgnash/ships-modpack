@@ -1,0 +1,13 @@
+name = "AM - RPG Mob Leveling System"
+filename = "ascendant_mobs-1.4.0_b-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4eSfhd3M/versions/Vf9T45c3/ascendant_mobs-1.4.0_b-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "fd85ab0a6a9425d17e2ad686a7a30e3e5dbb0469ce0d4400a42c55f8a2fa76615bcf744e3646d72049642f154961849dab0a66bb75e38be544764bad5a428397"
+
+[update]
+[update.modrinth]
+mod-id = "4eSfhd3M"
+version = "Vf9T45c3"
