@@ -166,6 +166,11 @@ hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -202,17 +207,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
-hash = "deedd1cac9bb7409e5d5db2c384c0b2c3924185e4a3f6f09996df9f52120a478"
+hash = "6367d019a446be6e9e204a837a2516598505854f54a94db3916a4093445117e0"
 metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "af34be85ba49c0ab5cfa982627c6f196c395926dcadfb495060ac5aa56ed7daf"
+hash = "a4c2a82f18819ca71ab3e581c8535c21c69a3fa1f0b1b4cc066185cb972eb234"
 metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "a6feb15f78ee7192942287790965b40412221ac822985fdb18f05605fc951d78"
+hash = "e3a7ab2718688c7d8e19cb0f217cbf4577cc22f091098de8c14bc880c70129c4"
 metafile = true
 
 [[files]]
@@ -287,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderio.pw.toml"
-hash = "48bc0635efe418bda0f8a973d9946c08dbf6884d17b6d713e258d17e6a3137cb"
+hash = "7efcb78fa891361872076b9c9a0355c72f2bac8749e55a51fd2799016c3e8133"
 metafile = true
 
 [[files]]
@@ -297,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight.pw.toml"
-hash = "dcdfb17ab7665772837f0c0d96f657c4bdbb215fe9fc8a25d07f6b6dbf1df0bc"
+hash = "b7548e4b669c4e96c9f55ed414be3f3e23031bc3293d82d608210b1aafbf9694"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/occult-engineering.pw.toml"
-hash = "22a29950b61a94c9049658777faa8dc09158abd5e284780a3f505baf7de8f04e"
+hash = "46db315b6f938237601606996fcefa7c1e82acfc99becaf8b3863573662ceb20"
 metafile = true
 
 [[files]]
@@ -671,6 +676,11 @@ hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
 metafile = true
 
 [[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
+metafile = true
+
+[[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
 metafile = true
@@ -738,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "e3a2b7e4cf982ab5bebe2e6116173aa2aadb313d52c1bb11886772f83a848a9f"
+metafile = true
+
+[[files]]
+file = "mods/viner.pw.toml"
+hash = "f0053da00b76b5126a16b84c8a4dc78ead6e559dd44c8e67634e4dedcbe7d72f"
 metafile = true
 
 [[files]]
