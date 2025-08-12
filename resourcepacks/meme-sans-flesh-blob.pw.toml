@@ -1,6 +1,6 @@
 name = "Biomancy 2: Pacifist Rememberance Sans Flesh Blob"
 filename = "pacifists.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wLW8Zccv/versions/jzZag4Y5/pacifists.zip"
