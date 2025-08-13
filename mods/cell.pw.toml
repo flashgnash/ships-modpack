@@ -1,0 +1,13 @@
+name = "Cell (Vanilla+)"
+filename = "Cell-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLg3EvUx/versions/HvSlmIDX/Cell-Forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "687b0ff8e2e2c6aa1a8f5368552d37fe183e16a16d8a82704f012499c6005de83408e44396bc1266bf11034aff273ad08d608cbc74f895c6817fa641f2aaaab5"
+
+[update]
+[update.modrinth]
+mod-id = "aLg3EvUx"
+version = "HvSlmIDX"

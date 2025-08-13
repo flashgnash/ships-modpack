@@ -1,0 +1,13 @@
+name = "Walkie-Talkie"
+filename = "walkietalkie-forge-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yaRitiLw/versions/SSQlCOGW/walkietalkie-forge-1.20.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "1cd5a8a9d3912d99610d9321a76cc205d9136cc21afff47d21bc338436f2dea4bb41d0ee1f9dbe5890898df174231df951b96aa2e7702c0afe8b6df9f0c1d3df"
+
+[update]
+[update.modrinth]
+mod-id = "yaRitiLw"
+version = "SSQlCOGW"

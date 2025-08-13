@@ -1,0 +1,13 @@
+name = "RPG Bonfire"
+filename = "forge-rpg_campfire-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lzmpfgnv/versions/vMaVoP7N/forge-rpg_campfire-1.2.jar"
+hash-format = "sha512"
+hash = "2b2a55bc20d28e7668790fe2e6d56296f6730bc2a8feecf062c86032cf8f35717d2cf155558ebafa8cd1044de1e19e4218fb30ac1aea75559ed4bf3c8c33338f"
+
+[update]
+[update.modrinth]
+mod-id = "lzmpfgnv"
+version = "vMaVoP7N"

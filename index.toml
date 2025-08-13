@@ -1,12 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
+file = "config/AscendantMobs/config_dims.toml"
+hash = "891006a1013a9264cd006ebef209bbfb1024afd9e76bac83d37e7a9832c5e1d9"
+
+[[files]]
+file = "config/AscendantMobs/main_config.toml"
+hash = "dbb076c4ebbf839f4f7ae1b5aa748375d616bf55edde120c26ededb682a7e5e0"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "c29d48f6fa0819afbe289991778ac5a8be0c28061f1edd539748ecf6d4d60eaa"
 
 [[files]]
 file = "config/aoa3/client_config.toml"
 hash = "91c7b4abc3eb1a391f50490786a19f6c5c3f95006385b676bcd67f9f4bf84aec"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "9564c382ed88c4d4070e1843e7790c9884c1adc23b844c9384174966028a6a28"
+
+[[files]]
+file = "flake.lock"
+hash = "c45a86fb427e6174d8223849009d9b584ba460804f43c0b5d17db2aac0b85369"
+
+[[files]]
+file = "flake.nix"
+hash = "dde7a6053d301323754c71b8948e95e6c8bfe1a31f70c4140021452175ab4aff"
 
 [[files]]
 file = "mods/-sculk-horn.pw.toml"
@@ -21,11 +45,6 @@ metafile = true
 [[files]]
 file = "mods/additional-attributes.pw.toml"
 hash = "52f10a5b1eefd53108e529208eef6d9a721ea5bc611e2da6db863cea4ea01d00"
-metafile = true
-
-[[files]]
-file = "mods/adventofascension.pw.toml"
-hash = "691278b159e29ab7cf96304340f0b45757a31d60bf10277256652443be327047"
 metafile = true
 
 [[files]]
@@ -484,13 +503,12 @@ hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
-metafile = true
+file = "mods/jcraft-forge-0.17.3.jar"
+hash = "da65a62ca769b1dd0feb9a6021632f024856e93837b313904bbb0a419d71d7f1"
 
 [[files]]
-file = "mods/jojo-eyes-of-ender.pw.toml"
-hash = "182a836535f338a94b58752dbaf129bd7675008c6c9b45c91cf86a7b3196fcd8"
+file = "mods/jei.pw.toml"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
@@ -1006,3 +1024,7 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "6bed6faabe0a27e10dec4d6e4c8981fc5d376be596c6c5738ab5a8b7e69d125e"
+
+[[files]]
+file = "world/serverconfig/scalinghealth-server.toml"
+hash = "d11fcd5c090bc49e21f80dc2b5ca2d87558396cf88027124f61868cbd5509210"
